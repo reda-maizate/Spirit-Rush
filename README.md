@@ -18,6 +18,8 @@ Le seul moyen de retrouver la conscience est de venir à bout du virus en termin
 ### L'image finale de la démo
 ![fin img](https://i.imgur.com/UHa693s.jpg)
 
+🏆 Second au quatrième hackathon de l'ESTIAM (2019) 🏆
+
 --------------------------------
 ## Spirit-Rush - The neuro-virus 👾
 
@@ -41,4 +43,4 @@ The only way to regain consciousness is to overcome the virus by completing all 
 
 @Credit: reda-maizate, sebWNN, blluetomato.\
 \
-🏆 2ème du classement au hackathon 2019 🏆
+🏆 Second at the fourth ESTIAM hackathon (2019) 🏆
